@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="elasticsearchTransformer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/elasticsearchTransformer_jar</output-path>
+    <root id="archive" name="elasticsearchTransformer.jar">
+      <element id="module-output" name="elasticsearchTransformer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/apache-commons/commons-beanutils-1.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/apache-commons/commons-collections4-4.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/apache-commons/commons-lang3-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/apache-commons/commons-text-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/jackson/jackson-annotations-2.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/jackson/jackson-core-2.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/jackson/jackson-databind-2.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/opencsv-4.6.jar" path-in-jar="/" />
+      <element id="module-output" name="java-utilities" />
+    </root>
+  </artifact>
+</component>
